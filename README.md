@@ -6,7 +6,6 @@ GBYHNJ]\,6'<h1 align="center">👋 Hey, I'm AmrDabour</h1>
 
 Hi there! I'm AmrDabour, a dedicated Machine Learning Engineer with a passion for pushing the boundaries of AI. I love experimenting with different programming languages and technologies, and I’m constantly working on projects that challenge my skills. Currently, I’m pursuing deeper knowledge in Neural Networks and AI-driven solutions.
 
-`<img src="https://your-custom-image-link.com/banner.jpg" alt="Welcome Banner" width="100%" />
 
 ### ⚙️ Tech Stack & Tools
 
