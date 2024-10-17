@@ -1,4 +1,4 @@
-GBYHNJ]\,6'<h1 align="center">👋 Hey, I'm AmrDabour</h1>
+<h1 align="center">👋 Hey, I'm AmrDabour</h1>
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="400px" height="280px" />
 
