@@ -1,14 +1,15 @@
-<h1 align="center">👋 Hey, I'm AmrDabour</h1>
-<img src="https://your-custom-image-link.com/banner.jpg" alt="Welcome Banner" width="100%" />
+GBYHNJ]\,6'<h1 align="center">👋 Hey, I'm AmrDabour</h1>
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="400px" height="280px" />
 
 ### 🚀 About Me
+
 Hi there! I'm AmrDabour, a dedicated Machine Learning Engineer with a passion for pushing the boundaries of AI. I love experimenting with different programming languages and technologies, and I’m constantly working on projects that challenge my skills. Currently, I’m pursuing deeper knowledge in Neural Networks and AI-driven solutions.
 
----
+`<img src="https://your-custom-image-link.com/banner.jpg" alt="Welcome Banner" width="100%" />
 
 ### ⚙️ Tech Stack & Tools
+
 Here are some of the tools and technologies I work with:
 
 ![Python](https://img.icons8.com/color/48/000000/python.png)
@@ -19,15 +20,15 @@ Here are some of the tools and technologies I work with:
 ---
 
 ### 🛠️ Recent Projects
+
 Check out some of my recent work:
 
 [![Project Demo](https://img.shields.io/badge/-See%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/yourproject)
 
-<img src="https://your-project-image-link.com/project.png" alt="Project Demo Screenshot" width="400px" height="300px">
-
 ---
 
 ### 🌟 GitHub Insights
+
 Here’s a snapshot of my GitHub activity:
 
 ![AmrDabour's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
@@ -36,12 +37,13 @@ Here’s a snapshot of my GitHub activity:
 ---
 
 ### 🏆 My Accomplishments
+
 Explore my achievements in the world of programming:
 
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula)
 
 ---
-
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 ### 📬 Let’s Connect!
 I’d love to connect with you! Feel free to reach out through any of the platforms below:
 
